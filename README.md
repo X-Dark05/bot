@@ -1,4 +1,6 @@
 # bot
-# PKG install PHP
-# PKG install git
-# PHP gojek.php
+# pkg install php
+# pkg install git
+# cd bot
+# php gojek.php
+# Thx To Xizzy
