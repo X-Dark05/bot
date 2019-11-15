@@ -11,4 +11,4 @@
 * php gojek.php
 * Nomer lu:(isi awalan 62 buat nomer indo kalo us 1)
 
-* Thx To Xizzy ]
+* Thx To X-Dark
