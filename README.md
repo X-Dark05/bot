@@ -6,7 +6,7 @@
 * git clone https://github.com/X-Dark05/bot
 * cd bot
 * php instantmac.php
-* Reff: (isi reff di aplikasi lu)
+* Reff: (isi reff lu)
 * Token: (copy paste di file token.txt) ]
 
 * Thx To X-Dark
