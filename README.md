@@ -1,12 +1,12 @@
-# INSTANTMAC v1
+# Earn Reward v1
 
 # Tutor = [
 * pkg install php
 * pkg install git
 * git clone https://github.com/X-Dark05/bot
 * cd bot
-* php instantmac.php
+* php earnreward.php
 * Reff: (isi reff lu)
-* Token: (copy paste di file token.txt) ]
+* Password: (copy paste di file password.txt) ]
 
 * Thx To X-Dark
